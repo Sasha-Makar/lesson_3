@@ -1,0 +1,20 @@
+.users-box {
+    display: flex;
+    width: 950px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items:stretch;
+    align-content: space-around;
+}
+
+.user-block{
+    background-color: cornflowerblue;
+    padding: 10px;
+    margin: 10px;
+    width: 400px;
+
+}
+
+.address-block{
+    background-color:aquamarine;
+}
